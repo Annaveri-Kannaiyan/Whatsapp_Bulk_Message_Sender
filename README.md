@@ -13,4 +13,4 @@ Installation:
 
 pip install -r requirements.txt
 
-Usage : python filename.py
+Usage : python Bulk_whatsapp_msg_sender.py.py
