@@ -12,3 +12,5 @@ Installation:
 *If you encounter any errors related to dependencies, please ensure that you have installed the required packages*
 
 pip install -r requirements.txt
+
+Usage : python filename.py
