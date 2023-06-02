@@ -4,6 +4,6 @@ This Python script  enables users to send multiple WhatsApp messages to a list o
 
 It simplifies and automates the process of sending WhatsApp messages to multiple recipients efficiently.
 
-*/If you encounter any errors related to dependencies, please ensure that you have installed the required packages/*
+*If you encounter any errors related to dependencies, please ensure that you have installed the required packages*
 
 pip install -r requirements.txt
